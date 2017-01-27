@@ -3,7 +3,7 @@ Isolate the scope of your Javascript module with Isolate.js
 
 Isolate.js adds the ability to have scripts loaded in a dynamically created empty iframe. This allows all scripts to execute in their own "window" scope, and therefore avoids conflicts between scripts.
 
-It allows for external HTML modules to easily be embedded in a page with no conflicts - it simplifies the creation of SaaS components.
+It allows for external HTML modules to easily be embedded in a page with no conflicts.
 
 ```html
 <!doctype html>
